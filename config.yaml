@@ -4,7 +4,7 @@ Web:
   PyWebIO_Enable: true    # Enable APP | 启用APP
 
   # APP Information
-  Domain: https://douyin.wtf    # Web domain | Web域名
+  Domain: https://crawler-tiktok.iluvads.com    # Web domain | Web域名
 
   # APP Configuration
   PyWebIO_Theme: minty    # PyWebIO theme | PyWebIO主题
@@ -25,7 +25,7 @@ Web:
 API:
   # Network Configuration
   Host_IP: 0.0.0.0    # default IP | 默认IP
-  Host_Port: 80    # default port is 80 | 默认端口为80
+  Host_Port: 3000    # default port is 3000 | 默认端口为3000
   Docs_URL: /docs    # API documentation URL | API文档URL
   Redoc_URL: /redoc    # API documentation URL | API文档URL
 
